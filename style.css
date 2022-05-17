@@ -1,0 +1,29 @@
+.heading{
+    width: 100%;
+    font-size:20px;
+    margin: 0;
+}
+
+
+.selvi{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size:cover ;
+}
+
+
+
+ .songname{
+     width: 145px;
+     font-size: 25px;
+ }
+
+
+ canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+ 
